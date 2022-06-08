@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_18</name>
+   <tag></tag>
+   <elementGuidId>da71b2e8-f431-4dd4-9c7b-c74a56b39ab4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkoutDate']/div/div/div/div/div/div/div/div/div/div/div[2]/div/div[3]/div[3]/div[7]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d2bc6932-ee2f-43fe-b3b1-5dbc3380aeb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>day-mod-body with-cheapest</value>
+      <webElementGuid>03b0780b-b28e-48d7-b63c-fafb126e59b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>f04c2fe5-e86b-43f7-8411-831ad942fb6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[@class=&quot;landing-desktop&quot;]/div[@class=&quot;hero-section&quot;]/div[@class=&quot;widget-container&quot;]/div[@class=&quot;widget-hotel&quot;]/div[@class=&quot;widget-section&quot;]/div[@class=&quot;widget-section-item section-center&quot;]/div[@class=&quot;staying-date-input-wrapper&quot;]/div[@class=&quot;widget-input&quot;]/div[@id=&quot;checkoutDate&quot;]/div[@class=&quot;widget-popup&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;popup-content&quot;]/div[@class=&quot;date-range-popup-container&quot;]/div[@class=&quot;range-picker end&quot;]/div[1]/div[@class=&quot;react-swipeable-view-container&quot;]/div[1]/div[@class=&quot;DayPicker&quot;]/div[@class=&quot;DayPicker-wrapper&quot;]/div[@class=&quot;DayPicker-Months&quot;]/div[@class=&quot;DayPicker-Month&quot;]/div[@class=&quot;DayPicker-Body&quot;]/div[@class=&quot;DayPicker-Week&quot;]/div[@class=&quot;DayPicker-Day DayPicker-Day--endDate&quot;]/div[@class=&quot;day-mod-container&quot;]/div[@class=&quot;day-mod&quot;]/div[@class=&quot;day-mod-body with-cheapest&quot;]</value>
+      <webElementGuid>54e70f04-696b-428b-ac15-cdac12cde6a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkoutDate']/div/div/div/div/div/div/div/div/div/div/div[2]/div/div[3]/div[3]/div[7]/div/div/div[2]</value>
+      <webElementGuid>61390e81-8a76-49c4-9125-3f4715f2a716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hari ini'])[2]/following::div[52]</value>
+      <webElementGuid>c8483a5f-5d24-42f9-9ad4-7b1cd20bdefb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sab'])[3]/following::div[97]</value>
+      <webElementGuid>c88038ad-9724-4680-88d0-3ca37e0b8570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Juli 2022'])[2]/preceding::div[65]</value>
+      <webElementGuid>bb3efce3-4302-4d87-a7fc-95f76b18aeb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min'])[4]/preceding::div[67]</value>
+      <webElementGuid>183394ea-a175-4fcd-b88c-87828fa99c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/div[3]/div[3]/div[7]/div/div/div[2]</value>
+      <webElementGuid>618cb847-d2ac-4a1c-9253-dde1f91b5a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '18' or . = '18')]</value>
+      <webElementGuid>9d103fd3-ca96-4523-9afb-46e43da55d29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

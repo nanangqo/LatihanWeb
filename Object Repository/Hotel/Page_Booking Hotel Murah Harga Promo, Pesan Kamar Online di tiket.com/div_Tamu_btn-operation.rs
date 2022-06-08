@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tamu_btn-operation</name>
+   <tag></tag>
+   <elementGuidId>5390c1e1-dc4b-48a3-be62-376adbf7c864</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='guestAndRoom']/div/div/div/div/div[2]/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0888fc13-ad13-4586-8c7e-e0c143247472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-operation </value>
+      <webElementGuid>fce0a7e6-67b7-4bbf-8779-d02aef309f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[@class=&quot;landing-desktop&quot;]/div[@class=&quot;hero-section&quot;]/div[@class=&quot;widget-container&quot;]/div[@class=&quot;widget-hotel&quot;]/div[@class=&quot;widget-section&quot;]/div[@class=&quot;widget-section-item section-right&quot;]/div[@class=&quot;widget-input&quot;]/div[@id=&quot;guestAndRoom&quot;]/div[@class=&quot;widget-popup  widget-guest-room-input&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;popup-content&quot;]/div[@class=&quot;guest-room-popup-container&quot;]/div[@class=&quot;field&quot;]/div[@class=&quot;number-input&quot;]/div[@class=&quot;btn-operation&quot;]</value>
+      <webElementGuid>75ea78d2-1f8d-4176-9ae6-dfd38f213af7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='guestAndRoom']/div/div/div/div/div[2]/div[2]/div[3]</value>
+      <webElementGuid>5f23a4dd-eab3-434a-a972-432bcb6e2624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tamu'])[1]/following::div[4]</value>
+      <webElementGuid>d5855fc7-a6e3-4e15-aa9a-3501c97e6cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamar'])[1]/following::div[10]</value>
+      <webElementGuid>8c4d7a95-a9b2-426b-bcb3-edb57635dfea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anak (dibawah 17 tahun)'])[1]/preceding::div[1]</value>
+      <webElementGuid>64c81e2b-d840-446a-85a5-56d6bf5c8a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[1]/preceding::div[7]</value>
+      <webElementGuid>9704fd8e-3b6b-4409-9a02-28920e65c4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[2]/div[3]</value>
+      <webElementGuid>47c3b9f6-f61a-4b1f-8da4-efb29931b7db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

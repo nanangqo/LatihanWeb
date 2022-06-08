@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BogorJawa Barat, IndonesiaCITY1990 Properti</name>
+   <tag></tag>
+   <elementGuidId>6d4b4313-1026-493d-80a2-aedd13ebd14e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='autocomplete-list-item'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8fd9d95-a449-4bc6-bed7-99ac9c85d75f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>autocomplete-list-item</value>
+      <webElementGuid>6eb10e25-5928-4cf6-be7e-46325d8410ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row-container </value>
+      <webElementGuid>3774dbb2-8225-4945-ae53-258be1641379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BogorJawa Barat, IndonesiaCITY1990 Properti</value>
+      <webElementGuid>08161bcc-acee-469e-8cd5-e15cc63fde05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[@class=&quot;landing-desktop&quot;]/div[@class=&quot;hero-section&quot;]/div[@class=&quot;widget-container&quot;]/div[@class=&quot;widget-hotel&quot;]/div[@class=&quot;widget-section&quot;]/div[@class=&quot;widget-section-item section-left&quot;]/div[@class=&quot;widget-input&quot;]/div[@id=&quot;destination&quot;]/div[@class=&quot;widget-popup&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;popup-content&quot;]/div[@class=&quot;destination-popup-container&quot;]/div[@id=&quot;autocomplete-list-container&quot;]/div[@id=&quot;autocomplete-list-item&quot;]</value>
+      <webElementGuid>31d2e3ab-8616-4c53-9537-fe8ed587ff0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='autocomplete-list-item'])[4]</value>
+      <webElementGuid>d5f47009-c046-4ae8-83dd-0728f0489148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocomplete-list-container']/div[4]</value>
+      <webElementGuid>2d78ecb9-e1a9-464d-942c-15d6b1d9a9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CITY'])[1]/following::div[2]</value>
+      <webElementGuid>646cc1bd-a885-461f-9363-3633c0cd6fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawa Timur, Indonesia'])[1]/following::div[4]</value>
+      <webElementGuid>ff9d5ed5-bbaf-4797-abdb-1b8caa0c274d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[4]</value>
+      <webElementGuid>3f884c99-7627-4071-84a2-8654ce1b146e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'autocomplete-list-item' and (text() = 'BogorJawa Barat, IndonesiaCITY1990 Properti' or . = 'BogorJawa Barat, IndonesiaCITY1990 Properti')]</value>
+      <webElementGuid>2e00b94b-f76b-487f-b52c-3a677f0e8310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
