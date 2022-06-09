@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_18</name>
+   <tag></tag>
+   <elementGuidId>356e62ea-7846-41a2-8299-eaf52d7c9c21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkinDate']/div/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[3]/div[3]/div[5]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ac27b3a-8b46-41f2-b10a-d383bf942af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>day-mod-body </value>
+      <webElementGuid>dfffe0da-0744-4db0-b057-4546428ac5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>1883d238-fe9b-4885-9b42-64d061ca99f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[@class=&quot;landing-desktop&quot;]/div[@class=&quot;hero-section&quot;]/div[@class=&quot;widget-container&quot;]/div[@class=&quot;widget-hotel&quot;]/div[@class=&quot;widget-section&quot;]/div[@class=&quot;widget-section-item section-center&quot;]/div[@class=&quot;staying-date-input-wrapper&quot;]/div[@class=&quot;widget-input&quot;]/div[@id=&quot;checkinDate&quot;]/div[@class=&quot;widget-popup&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;popup-content&quot;]/div[@class=&quot;date-range-popup-container&quot;]/div[@class=&quot;range-picker start&quot;]/div[1]/div[@class=&quot;react-swipeable-view-container&quot;]/div[1]/div[@class=&quot;DayPicker&quot;]/div[@class=&quot;DayPicker-wrapper&quot;]/div[@class=&quot;DayPicker-Months&quot;]/div[@class=&quot;DayPicker-Month&quot;]/div[@class=&quot;DayPicker-Body&quot;]/div[@class=&quot;DayPicker-Week&quot;]/div[@class=&quot;DayPicker-Day&quot;]/div[@class=&quot;day-mod-container&quot;]/div[@class=&quot;day-mod&quot;]/div[@class=&quot;day-mod-body&quot;]</value>
+      <webElementGuid>0f27cc52-c192-4ee8-8200-5cdae2f24894</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkinDate']/div/div/div/div/div/div/div/div/div/div/div[2]/div[2]/div[3]/div[3]/div[5]/div/div/div[2]</value>
+      <webElementGuid>75b5570a-c3b4-4a54-8af3-429a14b77891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sab'])[2]/following::div[95]</value>
+      <webElementGuid>bb817288-68ce-4aaf-b83e-2c070ccb3d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jum'])[2]/following::div[96]</value>
+      <webElementGuid>0d9fa38e-ae45-4104-a0aa-947a7b090419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hari Raya Idul Adha'])[1]/preceding::div[71]</value>
+      <webElementGuid>bdc050ef-65c3-4e93-a522-06395a777710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun Baru Hijriyah'])[1]/preceding::div[72]</value>
+      <webElementGuid>667036ac-977a-41f6-8830-281df1d549b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[3]/div[5]/div/div/div[2]</value>
+      <webElementGuid>5f9e6495-f91e-44d2-b25f-4bd3999b50cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '18' or . = '18')]</value>
+      <webElementGuid>f0ff4b21-b9de-459e-9d54-e2314ccdb75e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
