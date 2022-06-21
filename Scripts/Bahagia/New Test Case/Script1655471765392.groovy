@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('http://Tiket.com')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Hotel/Page_Booking Hotel Murah Harga Promo, Pesan Kamar Online di tiket.com/button_Hotel'))
+
